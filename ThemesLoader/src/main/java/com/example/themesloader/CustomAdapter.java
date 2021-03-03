@@ -13,7 +13,7 @@ import android.widget.ProgressBar;
 import androidx.annotation.NonNull;
 
 import com.bumptech.glide.Glide;
-import com.example.retrofitexample.model.Datum;
+import com.example.themesloader.model.Datum;
 
 import java.util.Date;
 import java.util.List;

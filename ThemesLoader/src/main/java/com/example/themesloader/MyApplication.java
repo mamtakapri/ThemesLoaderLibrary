@@ -2,6 +2,7 @@ package com.example.themesloader;
 
 import android.app.Application;
 
+import com.facebook.stetho.BuildConfig;
 import com.facebook.stetho.Stetho;
 
 public class MyApplication extends Application {

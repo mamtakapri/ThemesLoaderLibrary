@@ -23,9 +23,9 @@ import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.retrofitexample.model.Datum;
-import com.example.retrofitexample.model.RetroData;
-import com.example.retrofitexample.network.RequestInterface;
+import com.example.themesloader.model.Datum;
+import com.example.themesloader.model.RetroData;
+import com.example.themesloader.network.RequestInterface;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
